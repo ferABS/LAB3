@@ -1,0 +1,35 @@
+nav{
+    background-color: #85d4b7;
+    width: 100vw;
+    height: 100px;
+}
+
+#vegan{
+    background-color: #6dccaa;
+    width: 100vw;
+    height: 800px;
+}
+
+#footer{
+    background-color: #6dccaa;
+    width: 100vw;
+    height: 130px;
+}
+
+#coaching{
+    background-color: #ffffff;
+    width: 100vw;
+    height: 800px;
+}
+
+#eetcafe{
+    background-color: #ffcf3f;
+    width: 100vw;
+    height: 500px;
+}
+
+#winkel{
+    background-color: #ebebeb;
+    width: 100vw;
+    height: 500px;
+}
