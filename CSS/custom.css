@@ -14,14 +14,29 @@ nav{
     height: 800px;
 }
 
-#footer{
+footer{
     background-color: #6dccaa;
     height: 130px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Informacion{
+    float: left;
+}
+
+.redes{
+    clear: left;
 }
 
 #coaching{
     background-color: #ffffff;
     height: 800px;
+}
+
+#botonAjo{
+    border: #000 5px solid;
+    border-radius: 0px;
 }
 
 #eetcafe{
