@@ -1,0 +1,67 @@
+nav{
+    height: 100px;
+    background-color: #85d4b7;
+}
+
+#main, #vegan, footer, #eetcafe, #winkel{
+    width: 100%;
+    margin: 0px;
+    padding:0px;
+}
+
+#vegan{
+    background-color: #6dccaa;
+    height: 800px;
+}
+
+footer{
+    height: 130px;
+    margin: 0px;
+    padding:0px;
+}
+
+#col1, #col2{
+    padding: 63px 10px;
+}
+
+#barra, #barra2{
+    width: 50px;
+    opacity: 1;
+    height: 5px;
+    margin-left: 90%;
+}
+
+#barra2{
+    margin-left: 0%;
+    margin-right: 90%;
+}
+
+#col3{
+    padding-left: 10%;
+}
+
+#col4{
+    padding-right: 10%;
+}
+
+#coaching{
+    padding: 5px;
+}
+
+#eetcafe{
+    height: 500px;
+    background-color: #ffcf3f;
+}
+
+#imgEetcafe{
+    height: 500px;
+}
+
+#winkel{
+    height: 500px;
+    background-color: #cccccc;
+}
+
+#footLogo, #sesion{
+    padding: 10%;
+}
