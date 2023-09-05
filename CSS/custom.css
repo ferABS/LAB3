@@ -12,13 +12,15 @@ nav{
 #vegan{
     background-color: #6dccaa;
     height: 800px;
+    margin: 0px;
+    padding: 0px;
 }
 
 footer{
     background-color: #6dccaa;
     height: 130px;
     margin: 0px;
-    padding: 0px;
+    padding: 65px;
 }
 
 .Informacion{
@@ -32,6 +34,22 @@ footer{
 #coaching{
     background-color: #ffffff;
     height: 800px;
+    padding: 0px;
+}
+
+#rabano{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.subtitulo{
+    font-weight: 900;
+}
+
+.linea{
+    border: 4px solid #000;
+    opacity: 1;
 }
 
 #botonAjo{
@@ -42,9 +60,29 @@ footer{
 #eetcafe{
     background-color: #ffcf3f;
     height: 500px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#fotoEetcafe{
+    height: 100%;
 }
 
 #winkel{
     background-color: #ebebeb;
     height: 500px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#fotos{
+    display: flex;
+}
+
+#textoAjo{
+    font: raleway;
+}
+
+#eetcafeFoto{
+    height: 100%;
 }
